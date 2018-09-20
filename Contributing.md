@@ -21,7 +21,7 @@ git pull academy master
 git push
 ```
 
-¹ В `academy` должна быть ссылка на репозиторий Академии. Если его там нет, добавьте:
+¹ Тут я что-то изменил
 
 ```
 git remote add academy git@github.com:htmlacademy-adaptive/508859-cat-energy.git
